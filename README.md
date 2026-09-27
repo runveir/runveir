@@ -1,6 +1,7 @@
 # Hi, I'm Ranveer Bhura
 
 Mechanical Engineering Junior (3rd Year) @ NIT Silchar and a Remote Research Intern @ LCAS-University of Lincoln
+
 Robotics • Autonomous Systems • Machine Learning
 
 I work on autonomous robots,a bit on UAVs and learning-based robotic systems.
