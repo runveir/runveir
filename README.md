@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ranveer Bhura
 
-<!--
-**runveir/runveir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechanical Engineering @ NIT Silchar and a Remote Research Intern @ LCAS-University of Lincoln
+Robotics • Autonomous Systems • Machine Learning
 
-Here are some ideas to get you started:
+I work on autonomous robots,a bit on UAVs and learning-based robotic systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+-  ROS 2 & autonomous navigation
+-  Socially Aware Robotics
+-  Machine learning for robotics
+-  A little bit of UAV stuff
