@@ -4,6 +4,8 @@ Mechanical Engineering Junior (3rd Year) @ NIT Silchar and a Remote Research Int
 
 Robotics • Autonomous Systems • Machine Learning
 
+Remotely at the LCAS, I train gp based polcies for social robot navigation from their in the wild tele-operated datasets.
+
 ## What I'm working on
 
 -  ROS 2 & autonomous navigation
